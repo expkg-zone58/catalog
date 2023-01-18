@@ -25,5 +25,12 @@
                 <release version="1.9.4">v1.9.4/schxslt-basex-1.9.4.xar</release>
             </releases>
         </package>
+        
+        <package name = "http://exist-db.org/xquery/semver">
+            <releases xml:base="https://github.com/eXist-db/semver.xq/releases/download/">
+                <release version="3.0.0">3.0.0/semver-xq-3.0.0.xar</release>
+                <release version="2.4.0">2.4.0/semver-xq-2.4.0.xar</release>
+            </releases>
+        </package>
     </repository>
 </repositories>
